@@ -4,7 +4,7 @@
     <b>Welcome to my GitHub!</b><br><br>
     <i>
         I'm Rafael.<br>
-        Software Engineer with a robust background in analysis and development<br>
+        Software Engineer passionate about design and craft applications<br>
     </i><br>
     <a href="https://www.linkedin.com/in/rafael-campos-jonas-b19558b7/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -28,6 +28,7 @@
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/rafacjonas)
 [![Vue](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)](https://github.com/rafacjonas)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/rafacjonas)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/rafacjonas)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/rafacjonas)
