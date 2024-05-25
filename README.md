@@ -6,7 +6,7 @@
         I'm Rafael.<br>
         Software Engineer with a robust background in analysis and development<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/igor-gomes-romero-vilela-4724151a7/">
+    <a href="https://www.linkedin.com/in/rafael-campos-jonas-b19558b7/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
