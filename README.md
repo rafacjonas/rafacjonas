@@ -24,7 +24,6 @@
 ### Technologies & Frameworks
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/rafacjonas)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/rafacjonas)
-[![redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/rafacjonas)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/rafacjonas)
 [![Vue](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)](https://github.com/rafacjonas)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/rafacjonas)
@@ -42,7 +41,6 @@
 
 ### Products
 [![ibmmq](https://img.shields.io/badge/ibm_mq-black?style=for-the-badge&logo=ibm)](https://github.com/rafacjonas)
-[![websphere](https://img.shields.io/badge/Websphere_Liberty-black?style=for-the-badge&logo=ibm)](https://github.com/rafacjonas)
 [![ibmcloud](https://img.shields.io/badge/IBM_CLOUD-black?style=for-the-badge&logo=ibmcloud)](https://github.com/rafacjonas)
 [![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=microsoft)](https://github.com/rafacjonas)
 [![aws](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/rafacjonas)
